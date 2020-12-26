@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "react-bootstrap": "^1.4.0"
+  },
+  "name": "rory-home-page",
+  "version": "0.0.1",
+  "description": "Rory's (that's me) home page.",
+  "main": "index.js",
+  "author": "Silk <ksiondag846@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
